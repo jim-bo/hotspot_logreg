@@ -6,7 +6,7 @@
 - limited to primary chromosomes 1-X/Y
 - sorted
 - indexed
-- using ensemble nomeclature for chromsome
+- using ensemble nomeclature for chromsomes
 - only report SNV
 <br><br>
 
